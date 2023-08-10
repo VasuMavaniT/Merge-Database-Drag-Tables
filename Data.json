@@ -1,0 +1,22 @@
+[
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/preactivation", "Start": "2022-01-01", "End": "2021-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/financed", "Start": "2022-08-18", "End": "2022-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/onedaywarning", "Start": "2022-10-25", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/temporarylock", "Start": "2022-10-26", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/lock", "Start": "2022-11-01", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/unlock", "Start": "2022-12-02", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/onedaywarning", "Start": "2023-02-01", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/temporarylock", "Start": "2023-02-02", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/unlock", "Start": "2023-02-06", "End": "2023-01-31"},
+    {"Imei":357855082669413,"Brand":"Samsung","Model":"Edge","Policy":"airtel/release", "Start": "2023-07-02", "End": "2023-01-31"},
+    {"Imei":356208081824491,"Brand":"Apple","Model":"iPhone","Policy":"jio/preactivation", "Start": "2022-01-01", "End": "2021-01-31"}, 
+    {"Imei":356208081824491,"Brand":"Apple","Model":"iPhone","Policy":"jio/financed", "Start": "2022-02-01", "End": "2021-01-31"}, 
+    {"Imei":356208081824491,"Brand":"Apple","Model":"iPhone","Policy":"jio/release", "Start": "2023-01-26", "End": "2021-01-31"}, 
+    {"Imei":865887047192426,"Brand":"Asus","Model":"Zenfone","Policy":"docomo/preactivation", "Start": "2022-01-01", "End": "2021-01-31"},
+    {"Imei":865887047192426,"Brand":"Asus","Model":"Zenfone","Policy":"docomo/financed", "Start": "2022-01-15", "End": "2021-01-31"},
+    {"Imei":352562112513679,"Brand":"OnePlus","Model":"Nord","Policy":"idea/preactivation", "Start": "2022-01-01", "End": "2021-01-31"},
+    {"Imei":352562112513679,"Brand":"OnePlus","Model":"Nord","Policy":"idea/financed", "Start": "2022-02-01", "End": "2021-01-31"},
+    {"Imei":352562112513679,"Brand":"OnePlus","Model":"Nord","Policy":"idea/onedaywarning", "Start": "2022-06-01", "End": "2021-01-31"},
+    {"Imei":352562112513679,"Brand":"OnePlus","Model":"Nord","Policy":"idea/3-daywarning", "Start": "2022-06-02", "End": "2021-01-31"},
+    {"Imei":352562112513679,"Brand":"OnePlus","Model":"Nord","Policy":"idea/lock", "Start": "2022-06-05", "End": "2021-01-31"}
+]  
